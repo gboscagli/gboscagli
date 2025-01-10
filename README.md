@@ -1,9 +1,9 @@
-### HEY U 🫵
+## HEY U :handshake:
 
-## *Welcome to my Github profile!*
+Nothing to see here, just another Github profile of a wanna-be bioinformatician.
 
-## About Me
-- 🎓 Graduated in Biotechnology and Bioinformatics @ UNIBO (University of Bologna)
+### About Me
+- 🎓 Graduated in Biotechnology and Bioinformatics @ UNIBO (University of Bologna).
 - 🔎 Interested in Spatial Transcriptomics, AI and oncological research.
 - 📍 Currently a Research Fellow @ [Cancer Genomics and Bioinformatics Lab](https://www.ceredalab.com/).
-- 📫 Reach me at: [gabrieleboscagli99@gmail.com](mailto:gabrieleboscagli99@gmail.com)
+- 📫 Reach me at: [gabrieleboscagli99@gmail.com](mailto:gabrieleboscagli99@gmail.com).
