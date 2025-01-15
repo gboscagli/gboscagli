@@ -1,6 +1,6 @@
 ## HEY U :handshake:
 
-Nothing to see here, just another Github profile of a wanna-be bioinformatician.
+There is really nothing to see here, don't waste your time.
 
 ### About Me
 - 🎓 Graduated in Biotechnology and Bioinformatics @ UNIBO (University of Bologna).
