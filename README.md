@@ -1,4 +1,4 @@
-## YO :handshake:
+## YO 👊
 
 ### About Me
 - 🎓 Graduated in Biotechnology and Bioinformatics @ UNIBO (University of Bologna).
